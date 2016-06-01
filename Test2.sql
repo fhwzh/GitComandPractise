@@ -1,3 +1,3 @@
 PRINT 'Test'
 
-SELECT GETDATE()
+PRINT 'NewLine'
