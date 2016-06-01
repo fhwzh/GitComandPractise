@@ -1,1 +1,3 @@
 PRINT 'Test'
+
+SELECT GETDATE()
